@@ -6,6 +6,8 @@ Here are they
 
 Docker imagenmae:guvi
 
+Github repo url:https://github.com/Gokul1430/gitrepos.git
+
 jenkins login page
 
 ![jenkins](https://user-images.githubusercontent.com/108625253/214027009-6220ab3b-ac4c-4128-9c59-9ed63a277a18.png)
