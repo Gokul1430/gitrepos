@@ -12,7 +12,8 @@ jenkins login page
 
 EC2 instance image
 
-![ec2 instance](https://user-images.githubusercontent.com/108625253/214023652-e301d5be-6123-4c59-83a0-9633e766322f.png)
+![ec2instances](https://user-images.githubusercontent.com/108625253/214028701-da9e15cb-27a3-45ad-8a5d-cb62b114717b.png)
+
 
 security group
 
